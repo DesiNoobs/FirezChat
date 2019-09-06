@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531766994206",
+    "firebase_url": "https://ashishchat-5e5b3.firebaseio.com",
+    "project_id": "ashishchat-5e5b3",
+    "storage_bucket": "ashishchat-5e5b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531766994206:android:8a9e0fc924d0f6c5",
+        "android_client_info": {
+          "package_name": "com.ai.firezchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531766994206-9et6jpp5a2t4dcjjivnd46p5cq44k6sb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ai.firezchat",
+            "certificate_hash": "a849f49b08b774cba2fd517636ac7a6c23fbf1b2"
+          }
+        },
+        {
+          "client_id": "531766994206-203bdjdrirgm8raphhsp20356bi2at67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFg9cGZQpqun55HAkR9E7rRvXX7eGQS28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531766994206-203bdjdrirgm8raphhsp20356bi2at67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
